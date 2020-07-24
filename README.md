@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on acclerating learning for *all* kids
+- 🔭 I’m currently working on accelerating learning for *all* kids
 
 <!--
 **deuxtres/deuxtres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
